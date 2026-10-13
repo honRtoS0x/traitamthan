@@ -199,12 +199,10 @@ body {
 }
 
 .arrow {
-    width: 10px;
-    height: 10px;
-    border-right: 1px solid #999999;
-    border-bottom: 1px solid #999999;
-    transform: rotate(45deg);
-    margin-top: -5px;
+    width: 15.84px;
+    height: 7.1px;
+    flex-shrink: 0;
+    background: url("./Vector.svg") center / contain no-repeat;
 }
 
 .email-section {
